@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dharshanj
+- 👋 Hi, I’m DHARSHAN J 
 - 👀 I’m interested in ...Software jobs and Business
 - 🌱 I’m currently learning ...B.TECH COMPUTER SCIENCE AND BUSINESS SYSTEM 
 - 💞️ I’m looking to collaborate on ...Front end and back end
